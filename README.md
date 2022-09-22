@@ -1,7 +1,6 @@
 
-# Anna Bella modelo
-
-![GitHub](https://img.shields.io/github/license/Hayghlander/AnnaBella)](https://github.com/Hayghlander/AnnaBella/blob/main/LICENCE) 
+# Anna Bella
+https://github.com/Hayghlander/AnnaBella/blob/main/LICENCE
 
 # Sobre o projeto
 
