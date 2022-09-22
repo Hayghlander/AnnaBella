@@ -11,22 +11,22 @@ Anna Bella, projeto desenvolvido para uma modelo fictícia, no fim dos estudos d
 
 # Home
      
-![home](https://user-images.githubusercontent.com/113555075/191830326-7b0cca43-8e12-404e-8e31-7f7d62dcbb54.png)
+![home](https://user-images.githubusercontent.com/113555075/191844510-f55729a4-2e21-430e-8345-9631aab1ad15.png)
+
 
 
 # Biografia
 
-![biografia](https://user-images.githubusercontent.com/113555075/191830480-1d7ed126-42c6-41ef-a519-1802ad44c0c6.png)
+![biografia](https://user-images.githubusercontent.com/113555075/191844692-8d08b826-947b-45be-b129-dd9a7739baa3.png)
 
 
 # Campanhas Publicitárias
 
-![campanhaspublicitarias1](https://user-images.githubusercontent.com/113555075/191830600-7b07678c-5275-415e-aacc-d0c2a34dddb1.png)
+![campanhaspublicitarias1](https://user-images.githubusercontent.com/113555075/191844818-9d38da3a-45d3-4487-8d17-a02e2cdf69ec.png)
 
-![campanhaspublicitarias2](https://user-images.githubusercontent.com/113555075/191830754-1695cf8b-667a-4613-88da-b0e5a6cf4217.png)
+![campanhaspublicitarias2](https://user-images.githubusercontent.com/113555075/191844914-b745a4e5-68b4-4239-baec-a6f64c31f9e1.png)
 
-![campanhaspublicitarias3](https://user-images.githubusercontent.com/113555075/191830766-e45799e3-695d-4de6-8b19-46e0fb784d10.png)
-
+![campanhaspublicitarias3](https://user-images.githubusercontent.com/113555075/191844934-f4ed8c0c-8223-4047-892e-cf32ad57d85c.png)
 
 # Contato
 
