@@ -30,7 +30,7 @@ Anna Bella, projeto desenvolvido para uma modelo fictícia, no fim dos estudos d
 
 # Contato
 
-![contatoannabella](https://user-images.githubusercontent.com/113555075/191833950-5ae26880-5f8b-4177-9fc5-ba4912753fb5.png)
+![contatoannabella](https://user-images.githubusercontent.com/113555075/191845079-f60e50d3-c4f5-43a8-99db-166ba889d50b.png)
 
 
 # Tecnologias utilizadas
